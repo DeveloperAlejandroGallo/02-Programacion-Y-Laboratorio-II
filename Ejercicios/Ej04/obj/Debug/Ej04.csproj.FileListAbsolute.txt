@@ -1,0 +1,12 @@
+C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej04\bin\Debug\Ej04.exe.config
+C:\Ale\FRA\02-ProgYLab\Ejercicios\Ej04\bin\Debug\Ej04.exe.config
+C:\Ale\FRA\02-ProgYLab\Ejercicios\Ej04\bin\Debug\Ej04.exe
+C:\Ale\FRA\02-ProgYLab\Ejercicios\Ej04\bin\Debug\Ej04.pdb
+C:\Ale\FRA\02-ProgYLab\Ejercicios\Ej04\obj\Debug\Ej04.exe
+C:\Ale\FRA\02-ProgYLab\Ejercicios\Ej04\obj\Debug\Ej04.pdb
+C:\Ale\FRA\02-ProgYLab\Ejercicios\Ej04\obj\Debug\Ej04.csprojResolveAssemblyReference.cache
+C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej04\obj\Debug\Ej04.exe
+C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej04\obj\Debug\Ej04.pdb
+C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej04\bin\Debug\Ej04.exe
+C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej04\bin\Debug\Ej04.pdb
+C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej04\obj\Debug\Ej04.csprojResolveAssemblyReference.cache
