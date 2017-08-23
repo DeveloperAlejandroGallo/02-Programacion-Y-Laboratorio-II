@@ -1,0 +1,6 @@
+C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej16\bin\Debug\Ej16.exe.config
+C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej16\obj\Debug\Ej16.csprojResolveAssemblyReference.cache
+C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej16\bin\Debug\Ej16.exe
+C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej16\bin\Debug\Ej16.pdb
+C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej16\obj\Debug\Ej16.exe
+C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej16\obj\Debug\Ej16.pdb
