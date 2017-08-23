@@ -1,0 +1,8 @@
+C:\#Coco\FRA\Prog2\Ejercicios\Ej15\bin\Debug\Ej15.exe.config
+C:\#Coco\FRA\Prog2\Ejercicios\Ej15\bin\Debug\Ej15.exe
+C:\#Coco\FRA\Prog2\Ejercicios\Ej15\bin\Debug\Ej15.pdb
+C:\#Coco\FRA\Prog2\Ejercicios\Ej15\bin\Debug\Ej12.exe
+C:\#Coco\FRA\Prog2\Ejercicios\Ej15\bin\Debug\Ej12.pdb
+C:\#Coco\FRA\Prog2\Ejercicios\Ej15\obj\Debug\Ej15.csprojResolveAssemblyReference.cache
+C:\#Coco\FRA\Prog2\Ejercicios\Ej15\obj\Debug\Ej15.exe
+C:\#Coco\FRA\Prog2\Ejercicios\Ej15\obj\Debug\Ej15.pdb
