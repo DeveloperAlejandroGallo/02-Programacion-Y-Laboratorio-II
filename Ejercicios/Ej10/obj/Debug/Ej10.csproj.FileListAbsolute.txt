@@ -1,0 +1,12 @@
+C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej10\bin\Debug\Ej10.exe.config
+C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej10\bin\Debug\Ej10.exe
+C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej10\bin\Debug\Ej10.pdb
+C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej10\obj\Debug\Ej10.exe
+C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej10\obj\Debug\Ej10.pdb
+C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej10\obj\Debug\Ej10.csprojResolveAssemblyReference.cache
+C:\Ale\FRA\02-ProgYLab\Ejercicios\Ej10\bin\Debug\Ej10.exe.config
+C:\Ale\FRA\02-ProgYLab\Ejercicios\Ej10\bin\Debug\Ej10.exe
+C:\Ale\FRA\02-ProgYLab\Ejercicios\Ej10\bin\Debug\Ej10.pdb
+C:\Ale\FRA\02-ProgYLab\Ejercicios\Ej10\obj\Debug\Ej10.csprojResolveAssemblyReference.cache
+C:\Ale\FRA\02-ProgYLab\Ejercicios\Ej10\obj\Debug\Ej10.exe
+C:\Ale\FRA\02-ProgYLab\Ejercicios\Ej10\obj\Debug\Ej10.pdb
