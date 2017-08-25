@@ -9,3 +9,8 @@ C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo
 C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej07\obj\Debug\Ej07.pdb
 C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej07\bin\Debug\Ej07.exe
 C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej07\bin\Debug\Ej07.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej07\bin\Debug\Ej07.exe.config
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej07\bin\Debug\Ej07.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej07\bin\Debug\Ej07.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej07\obj\Debug\Ej07.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej07\obj\Debug\Ej07.pdb

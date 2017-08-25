@@ -9,3 +9,9 @@ C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo
 C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej06\obj\Debug\Ej06.csprojResolveAssemblyReference.cache
 C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej06\obj\Debug\Ej06.exe
 C:\Ale\Documentos\Google Drive\UTN\FRA\02 - Programacion y Laboratorio II\Codigo\Ejercicios\Ej06\obj\Debug\Ej06.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej06\bin\Debug\Ej06.exe.config
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej06\bin\Debug\Ej06.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej06\bin\Debug\Ej06.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej06\obj\Debug\Ej06.csprojResolveAssemblyReference.cache
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej06\obj\Debug\Ej06.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej06\obj\Debug\Ej06.pdb
