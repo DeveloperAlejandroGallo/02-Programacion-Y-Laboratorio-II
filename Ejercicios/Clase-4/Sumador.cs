@@ -60,7 +60,7 @@ namespace Clase_4
 
             return c;
         }
-
+        
         //Esto sirve para que cuando castee como long a un Sumador, devuelva la cantidad de sumas.
         public static explicit operator long (Sumador a)
         {
