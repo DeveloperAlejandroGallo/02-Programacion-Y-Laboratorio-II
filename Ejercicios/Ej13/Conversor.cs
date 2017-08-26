@@ -8,14 +8,54 @@ namespace Ej13
 {
     public class Conversor
     {
-        static string DecimaABinario(double nro)
+        public static string EnteroABinario(int nro)
         {
-            return nro.ToString();
+            string aux="",ret="";
+            int resultado=0;
+
+            aux = (nro % 2).ToString();
+            resultado = (int)(nro / 2); 
+
+            while(resultado >= 2)
+            {
+                aux += (resultado % 2).ToString();
+                resultado = (int)(resultado / 2);
+               
+            }
+            aux += resultado;
+            for (var i = aux.Length - 1; i >= 0; i-- )
+            {
+                ret += aux[i];
+            }
+
+            return ret;
         }
 
-        static double BinarioADecimal(string binario)
+        public static int BinarioAEntero(string binario)
         {
-            return Convert.ToDouble(binario);
+            double suma=0;
+            for (var i = 0; i < binario.Length; i++ )
+            {
+                if (binario[i] == '1')
+                    suma += Math.Pow(2, (double)((binario.Length-1)-i));
+            }
+
+            return (int)suma;
+        }
+
+        public static bool EsBinario(string binario, out string bin)
+        {
+            bool ret = true;
+            bin = binario;
+            for (var i = 0; i < binario.Length; i++)
+                if (binario[i] != '0' && binario[i] != '1')
+                {
+                    ret = false;
+                    bin = "";
+                    break;
+                }
+
+            return ret;
         }
     }
 }
