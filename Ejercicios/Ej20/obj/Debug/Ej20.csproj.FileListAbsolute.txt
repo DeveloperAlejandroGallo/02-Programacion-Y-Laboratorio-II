@@ -1,0 +1,6 @@
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej20\bin\Debug\Ej20.exe.config
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej20\bin\Debug\Ej20.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej20\bin\Debug\Ej20.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej20\obj\Debug\Ej20.csprojResolveAssemblyReference.cache
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej20\obj\Debug\Ej20.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej20\obj\Debug\Ej20.pdb

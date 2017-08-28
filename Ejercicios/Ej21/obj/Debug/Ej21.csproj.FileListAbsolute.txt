@@ -1,0 +1,5 @@
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej21\bin\Debug\Ej21.exe.config
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej21\bin\Debug\Ej21.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej21\bin\Debug\Ej21.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej21\obj\Debug\Ej21.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej21\obj\Debug\Ej21.pdb
