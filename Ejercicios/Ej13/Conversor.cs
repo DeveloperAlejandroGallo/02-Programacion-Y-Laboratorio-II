@@ -8,7 +8,7 @@ namespace Ej13
 {
     public class Conversor
     {
-        public static string EnteroABinario(int nro)
+        public static string DecimalABinario(double nro)
         {
             string aux="",ret="";
             int resultado=0;
@@ -31,7 +31,7 @@ namespace Ej13
             return ret;
         }
 
-        public static int BinarioAEntero(string binario)
+        public static double BinarioADecimal(string binario)
         {
             double suma=0;
             for (var i = 0; i < binario.Length; i++ )
@@ -40,7 +40,7 @@ namespace Ej13
                     suma += Math.Pow(2, (double)((binario.Length-1)-i));
             }
 
-            return (int)suma;
+            return suma;
         }
 
         public static bool EsBinario(string binario, out string bin)

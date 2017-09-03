@@ -21,7 +21,7 @@ namespace Ej13
                 Console.Write("No es un nro. - Ingrese un nro entero: ");
             }
 
-            Console.WriteLine("El nro {0} convertido a Binario es: {1}", nro, Conversor.EnteroABinario(nro));
+            Console.WriteLine("El nro {0} convertido a Binario es: {1}", nro, Conversor.DecimalABinario(nro));
 
             Console.Write("Ingrese un nro Binario: ");
             while (!Conversor.EsBinario(Console.ReadLine(), out binario))
@@ -29,7 +29,7 @@ namespace Ej13
                 Console.Write("No es un nro. - Ingrese un nro Binario: ");
             }
 
-            Console.WriteLine("El nro Binario: {0} convertido a Entero es: {1}", binario, Conversor.BinarioAEntero(binario));
+            Console.WriteLine("El nro Binario: {0} convertido a Entero es: {1}", binario, Conversor.BinarioADecimal(binario));
 
             Console.ReadKey();
         }

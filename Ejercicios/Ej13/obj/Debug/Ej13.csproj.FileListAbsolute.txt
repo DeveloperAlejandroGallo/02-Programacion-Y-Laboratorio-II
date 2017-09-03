@@ -8,4 +8,3 @@ C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej13\bin\Debug\Ej13.pdb
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej13\obj\Debug\Ej13.exe
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej13\obj\Debug\Ej13.pdb
-C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej13\obj\Debug\Ej13.csprojResolveAssemblyReference.cache
