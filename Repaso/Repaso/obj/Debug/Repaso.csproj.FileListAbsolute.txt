@@ -7,3 +7,6 @@ C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Repaso\Repaso\bin\Debug\Repaso.exe.config
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Repaso\Repaso\obj\Debug\Repaso.exe
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Repaso\Repaso\obj\Debug\Repaso.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Repaso\Repaso\bin\Debug\Repaso.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Repaso\Repaso\bin\Debug\Repaso.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Repaso\Repaso\obj\Debug\Repaso.csprojResolveAssemblyReference.cache

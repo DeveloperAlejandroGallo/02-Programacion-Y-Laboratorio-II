@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{670F870A-C595-4B6A-80B9-DD49E274974E}</ProjectGuid>
+    <ProjectGuid>{3EF5C2E5-DE68-4791-800C-B7E48199F0ED}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Ej21</RootNamespace>
-    <AssemblyName>Ej21</AssemblyName>
+    <RootNamespace>Ej24</RootNamespace>
+    <AssemblyName>Ej24</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -41,10 +41,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dolar.cs" />
-    <Compile Include="Ejercicio21.cs" />
-    <Compile Include="Euro.cs" />
-    <Compile Include="Peso.cs" />
+    <Compile Include="Ejercicio24.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

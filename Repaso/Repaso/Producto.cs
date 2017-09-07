@@ -52,12 +52,12 @@ namespace Repaso
 
         public static bool operator !=(Producto a, Producto b)
         {
-            return (a.GetMarca() != b.GetMarca() || a.GetCodigoDeBarras() != b.GetCodigoDeBarras());
+            return !(a == b);
         }
 
         public static bool operator !=(Producto p, string str)
         {
-            return p.GetMarca() != str;
+            return !(p == str);
         }
 
         public static explicit operator string(Producto p)

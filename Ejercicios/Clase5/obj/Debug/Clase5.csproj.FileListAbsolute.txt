@@ -9,3 +9,8 @@ C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase5\bin\Debug\Clase5.exe.config
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase5\obj\Debug\Clase5.exe
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase5\obj\Debug\Clase5.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase5\bin\Debug\Clase5.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase5\bin\Debug\Clase5.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase5\bin\Debug\Ej13.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase5\bin\Debug\Ej13.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase5\obj\Debug\Clase5.csprojResolveAssemblyReference.cache

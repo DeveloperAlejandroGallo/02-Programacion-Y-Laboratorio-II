@@ -11,15 +11,17 @@ namespace Ej21
     {
         static void Main(string[] args)
         {
-            Dolar dls = new Dolar();
-            Euro eur = new Euro();
+            Dolar dls = new Dolar(10);
+            Peso peso = new Peso(188);
+            Euro eur = new Euro(200);
 
-            Console.WriteLine("El dolar equivale: {0}", dls.getCotizacion());
-            Console.WriteLine("El euro equivale: {0}", eur.getCotizacion());
+            Console.WriteLine("El dolar equivale: {0}", Dolar.getCotizacion());
+            Console.WriteLine("El euro equivale: {0}", Dolar.getCotizacion());
             Console.WriteLine("La + de Dolar + Euro = {0}", dls + eur);
             Console.WriteLine("La - de Dolar + Euro = {0}", dls - eur);
             Console.WriteLine("La comparacion de Dolar == Euro = {0}", dls == eur);
-            Console.WriteLine("Incremento el dolar Dolar = {0}", dls++);
+            Console.WriteLine("Antes del Incremento el dolar Dolar = {0}", dls.cantidad);
+            Console.WriteLine("Incremento el dolar Dolar = {0}", (dls++).cantidad);
             
 
 

@@ -77,21 +77,7 @@ namespace Repaso
         }
         public static bool operator !=(Estante estante, Producto prod)
         {
-            bool ret = false;
-
-            foreach (var p in estante.GetProductos())
-            {
-                if (!object.ReferenceEquals(p, null))
-                {
-                    if (p == prod)
-                    {
-                        ret = true;
-                        break;
-                    }
-                }
-            }
-
-            return !ret;
+            return !(estante == prod);
         }
         /// <summary>
         /// Adición, retornará true y agregará el producto si el estante posee capacidad de almacenar al menos un producto más y 

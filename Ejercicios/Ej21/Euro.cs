@@ -6,58 +6,96 @@ using System.Threading.Tasks;
 
 namespace Ej21_Moneda
 {
-    class Euro
+    public class Euro
     {
-        double cotizacion;
+        static double cotizacion;
 
-        public Euro()
+        public double cantidad;
+
+        static Euro()
         {
-            this.cotizacion = 1.3642;
+            cotizacion = 1.3678;
         }
 
-        public static double operator +(Euro e, Dolar d )
+        public Euro(double cant)
         {
-            return d.getCotizacion() + e.getCotizacion();
+            this.cantidad = cant;
+        }
+        public Euro(double cant, double cotiz)
+        {
+            this.cantidad = cant;
+            Euro.cotizacion = cotiz;
+        }
+
+        public double Cotizar(Dolar moneda)
+        {
+            return moneda.cantidad * Euro.cotizacion;
+        }
+        public double Cotizar(Peso moneda)
+        {
+            return moneda.cantidad * Euro.cotizacion;
+        }
+
+
+        //Dolares
+        public static double operator +(Euro e, Dolar d)
+        {
+            return (d.cantidad * Euro.cotizacion) + e.cantidad;
         }
         public static double operator -(Euro e, Dolar d)
         {
-            return d.getCotizacion() - e.getCotizacion();
+            return (d.cantidad * Euro.cotizacion) - e.cantidad;
         }
         public static bool operator ==(Euro e, Dolar d)
         {
-            return d.getCotizacion() == e.getCotizacion();
+            return (d.cantidad * Euro.cotizacion) == e.cantidad;
         }
         public static bool operator !=(Euro e, Dolar d)
         {
-            return d.getCotizacion() != e.getCotizacion();
+            return !(d == e);
         }
+
+        //Pesos
+        public static double operator +(Euro e, Peso p)
+        {
+            return (p.cantidad * Euro.cotizacion) + e.cantidad;
+        }
+        public static double operator -(Euro e, Peso p)
+        {
+            return (p.cantidad * Euro.cotizacion) - e.cantidad;
+        }
+        public static bool operator ==(Euro e, Peso p)
+        {
+            return (p.cantidad * Euro.cotizacion) == e.cantidad;
+        }
+        public static bool operator !=(Euro e, Peso p)
+        {
+            return !(p == e);
+        }
+
+
         public static Euro operator ++(Euro e)
         {
-            e++;
+            e.cantidad++;
 
             return e;
         }
         public static Euro operator --(Euro e)
         {
 
-            e--;
+            e.cantidad--;
             return e;
         }
+        
 
-
-        public double getCotizacion()
+        public static explicit operator double(Euro d)
         {
-            return this.cotizacion;
+            return d.cantidad;
         }
 
-        public void setCotizacion(double coti)
+        public static double getCotizacion()
         {
-            this.cotizacion = coti;
-        }
-
-        public static explicit operator double(Euro  d)
-        {
-            return d.getCotizacion();
+            return Euro.cotizacion;
         }
 
     }
