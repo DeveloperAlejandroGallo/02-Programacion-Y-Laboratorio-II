@@ -1,0 +1,11 @@
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej23\bin\Debug\Ej23.exe.config
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej23\obj\Debug\Ej23.csprojResolveAssemblyReference.cache
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej23\obj\Debug\Ej23.frmConversorDinero.resources
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej23\obj\Debug\Ej23.Properties.Resources.resources
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej23\obj\Debug\Ej23.csproj.GenerateResource.Cache
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej23\bin\Debug\Ej23.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej23\bin\Debug\Ej23.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej23\bin\Debug\Ej21.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej23\bin\Debug\Ej21.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej23\obj\Debug\Ej23.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej23\obj\Debug\Ej23.pdb

@@ -1,0 +1,9 @@
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\bin\Debug\Ej28.exe.config
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\bin\Debug\Ej28.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\bin\Debug\Ej28.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\obj\Debug\Ej28.csprojResolveAssemblyReference.cache
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\obj\Debug\Ej28.frmContadorPalabras.resources
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\obj\Debug\Ej28.Properties.Resources.resources
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\obj\Debug\Ej28.csproj.GenerateResource.Cache
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\obj\Debug\Ej28.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\obj\Debug\Ej28.pdb

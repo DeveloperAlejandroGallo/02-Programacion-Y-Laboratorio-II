@@ -1,0 +1,8 @@
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej27\bin\Debug\Ej27.exe.config
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej27\bin\Debug\Ej27.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej27\bin\Debug\Ej27.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej27\obj\Debug\Ej27.csprojResolveAssemblyReference.cache
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej27\obj\Debug\Ej27.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej27\obj\Debug\Ej27.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej27\bin\Debug\Ej21.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej27\bin\Debug\Ej21.pdb
