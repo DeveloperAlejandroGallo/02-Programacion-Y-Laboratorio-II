@@ -1,0 +1,5 @@
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej34\bin\Debug\Ej34.exe.config
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej34\bin\Debug\Ej34.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej34\bin\Debug\Ej34.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej34\obj\Debug\Ej34.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej34\obj\Debug\Ej34.pdb
