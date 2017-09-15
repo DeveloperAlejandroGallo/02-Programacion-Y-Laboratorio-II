@@ -23,9 +23,9 @@ namespace Ej34
     {
         static void Main(string[] args)
         {
-            Auto auto = new Auto(4, 5, VehiculoTerrestre.Colores.Rojo, 3, 5);
-            Camion camion = new Camion(16, 2, VehiculoTerrestre.Colores.Negro, 4000, 6);
-            Moto moto = new Moto(2, 0, VehiculoTerrestre.Colores.Azul, 650);
+            Auto auto = new Auto(4, 5, Colores.Rojo, 3, 5);
+            Camion camion = new Camion(16, 2, Colores.Negro, 4000, 6);
+            Moto moto = new Moto(2, 0, Colores.Azul, 650);
 
             StringBuilder str = new StringBuilder();
             str.AppendFormat("{0,-10}|{1,-10}|{2,-10}|{3,-10}|{4,-10}|{5,-20}\n","VEHICULO","RUEDAS","PUERTAS","COLOR","MARCHAS","ESPECIAL");

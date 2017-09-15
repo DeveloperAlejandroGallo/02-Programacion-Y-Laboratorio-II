@@ -8,14 +8,7 @@ namespace Ej34
 {
     public class VehiculoTerrestre
     {
-        public enum Colores
-        {
-            Rojo, 
-            Blanco, 
-            Azul, 
-            Gris, 
-            Negro
-        }
+
 
         short cantidadRuedas;
         short cantidadPuertas;
