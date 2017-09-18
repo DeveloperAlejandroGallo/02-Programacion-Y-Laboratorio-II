@@ -43,7 +43,6 @@
   <ItemGroup>
     <Compile Include="Centralita.cs" />
     <Compile Include="Ejercicio37.cs" />
-    <Compile Include="EnumFranjaHs.cs" />
     <Compile Include="Llamada.cs" />
     <Compile Include="Local.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

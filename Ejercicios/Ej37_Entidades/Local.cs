@@ -32,17 +32,17 @@ namespace Ej37_Entidades
         #endregion
 
         #region Metodos
-        public void Mostrar()
+        public string Mostrar()
         {
             StringBuilder str = new StringBuilder();
-            str.Append("LLAMADA\n\n");
-            str.AppendFormat("{0,-10}|{1,-10}|{2,-10}|{3,-10}\n", "DURACION", "DESTINO", "ORIGEN", "COSTO");
-            str.AppendFormat("{0,-10}|{1,-10}|{2,-10}|{3,-10}\n", base.Duracion, base.NroDestino, base.NroOrigen, this.CostoLlamada);
+            str.AppendFormat("{0,-10}|{1,-10}|{2,-10}|{3,-10}|{4,-10}\n", "LOCAL", base.Duracion, base.NroDestino, base.NroOrigen, this.CostoLlamada);
+
+            return str.ToString();
         }
 
         private float CalcularCosto()
         {
-            return (base.Duracion * this.CostoLlamada);
+            return (base.Duracion * this.costo);
         }
         
         #endregion

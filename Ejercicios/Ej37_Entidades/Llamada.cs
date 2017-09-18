@@ -52,7 +52,7 @@ namespace Ej37_Entidades
         
         #region Metodos
 
-        public int OrdenarPorDuracion(Llamada llamada1, Llamada llamada2)
+        public static int OrdenarPorDuracion(Llamada llamada1, Llamada llamada2)
         {
             int orden=0;
             if (llamada1.Duracion > llamada2.Duracion)

@@ -8,6 +8,13 @@ namespace Ej37_Entidades
 {
     public class Provincial : Llamada
     {
+        public enum Franja
+        {
+            Franja_1 = 99,
+            Franja_2 = 125,
+            Franja_3 = 66
+        }
+
         protected Franja franjaHoraria;
 
         #region Propiedades
@@ -44,12 +51,12 @@ namespace Ej37_Entidades
             return this.CostoLlamada * base.Duracion;
         }
 
-        public void Mostrar()
+        public string Mostrar()
         {
             StringBuilder str = new StringBuilder();
-            str.Append("LLAMADAS\n\n");
-            str.AppendFormat("{0,-10}|{1,-10}|{2,-10}|{3,-10}|{4,-10}\n", "DURACION", "DESTINO", "ORIGEN", "COSTO","FRANJA");
-            str.AppendFormat("{0,-10}|{1,-10}|{2,-10}|{3,-10}|{4,-10}\n", base.Duracion, base.NroDestino, base.NroOrigen, this.CostoLlamada, this.franjaHoraria);
+            str.AppendFormat("{0,-10}|{1,-10}|{2,-10}|{3,-10}|{4,-10}|{5,-10}\n", "PROVINCIAL", base.Duracion, base.NroDestino, base.NroOrigen, this.CostoLlamada, this.franjaHoraria);
+
+            return str.ToString();
         }
 
         #endregion
