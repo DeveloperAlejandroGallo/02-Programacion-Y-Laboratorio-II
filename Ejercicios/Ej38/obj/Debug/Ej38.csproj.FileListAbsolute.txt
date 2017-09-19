@@ -1,0 +1,6 @@
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej38\bin\Debug\Ej38.exe.config
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej38\bin\Debug\Ej38.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej38\bin\Debug\Ej38.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej38\obj\Debug\Ej38.csprojResolveAssemblyReference.cache
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej38\obj\Debug\Ej38.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej38\obj\Debug\Ej38.pdb
