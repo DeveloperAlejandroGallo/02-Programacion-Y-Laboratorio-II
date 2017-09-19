@@ -100,12 +100,12 @@ namespace Ej37_Entidades
         public string Mostrar()
         {
             StringBuilder str = new StringBuilder();
-            str.Append("CENTRALITA:\n\n");
+            str.Append("****************************CENTRALITA****************************\n\n");
             str.AppendFormat("RAZON SOCIAL: {0}\n", this.razonSocial);
             str.AppendFormat("GANANCIA TOTAL: {0}\n", CalcularGanancia(Llamada.TipoLlamada.Todas));
             str.AppendFormat("GANANCIA LOCAL: {0}\n", CalcularGanancia(Llamada.TipoLlamada.Local));
-            str.AppendFormat("GANANCIA PROVINCIAL: {0}\n\n", CalcularGanancia(Llamada.TipoLlamada.Provincial));
-            str.Append("LLAMADAS: \n\n");
+            str.AppendFormat("GANANCIA PROVINCIAL: {0}\n", CalcularGanancia(Llamada.TipoLlamada.Provincial));
+            str.Append("LLAMADAS---->\n\n");
             str.AppendFormat("{0,-10}|{1,-10}|{2,-10}|{3,-10}|{4,-10}|{5,-10}\n", "TIPO", "DURACION", "DESTINO", "ORIGEN", "COSTO", "FRANJA");
             foreach (Llamada call in listaDeLlamadas)
             {
@@ -121,7 +121,7 @@ namespace Ej37_Entidades
 
         public void OrdenarLlamadas()
         {
-            this.listaDeLlamadas.Sort();
+            this.listaDeLlamadas.Sort(Llamada.OrdenarPorDuracion);
         }
         #endregion 
     }

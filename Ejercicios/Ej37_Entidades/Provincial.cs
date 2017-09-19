@@ -23,7 +23,8 @@ namespace Ej37_Entidades
         {
             get 
             {
-                return (float)((int)this.franjaHoraria / 100);
+                int franja = (int)this.franjaHoraria;
+                return ((float)franja / 100);
             }
         }
 
