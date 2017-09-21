@@ -4,3 +4,9 @@ C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase-4\obj\Debug\Clase-4.exe
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase-4\obj\Debug\Clase-4.pdb
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase-4\obj\Debug\Clase-4.csprojResolveAssemblyReference.cache
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase-4\bin\Debug\Clase-4.exe.config
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase-4\bin\Debug\Clase-4.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase-4\bin\Debug\Clase-4.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase-4\obj\Debug\Clase-4.csprojResolveAssemblyReference.cache
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase-4\obj\Debug\Clase-4.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase-4\obj\Debug\Clase-4.pdb

@@ -1,2 +1,3 @@
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\EJ19\bin\Debug\EJ19.exe.config
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\EJ19\obj\Debug\EJ19.csprojResolveAssemblyReference.cache
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\EJ19\obj\Debug\Ej19.csprojResolveAssemblyReference.cache

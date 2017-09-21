@@ -8,3 +8,8 @@ C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej08\bin\Debug\Ej08.pdb
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej08\obj\Debug\Ej08.exe
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej08\obj\Debug\Ej08.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej08\bin\Debug\Ej08.exe.config
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej08\bin\Debug\Ej08.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej08\bin\Debug\Ej08.pdb
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej08\obj\Debug\Ej08.exe
+C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej08\obj\Debug\Ej08.pdb
