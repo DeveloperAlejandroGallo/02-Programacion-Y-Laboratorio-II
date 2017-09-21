@@ -19,7 +19,10 @@ namespace Ej39
         #endregion
 
         #region Propiedades
-        public abstract string MiAtributo;
+        public abstract string MiAtributo
+        { 
+            get; 
+        }
         #endregion
 
         #region Methods
