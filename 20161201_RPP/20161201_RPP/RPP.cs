@@ -12,6 +12,8 @@ namespace _20161201_RPP
 {
     public partial class RPP : Form
     {
+        Carrera carrera = new Carrera(10);
+        
         public RPP()
         {
             InitializeComponent();
@@ -20,7 +22,7 @@ namespace _20161201_RPP
 
         private void btnPruebaClase_Click(object sender, EventArgs e)
         {
-            Carrera carrera = new Carrera(10);
+            
 
             Animal a1 = new Perro(Perro.Razas.Galgo, 60);
             carrera += a1;
@@ -36,12 +38,13 @@ namespace _20161201_RPP
             carrera += a6;
             Perro a7 = new Perro(Perro.Razas.OvejeroAleman, 50);
             carrera += a7;
+      
 
         }
 
         private void btnMostarSalida_Click(object sender, EventArgs e)
         {
-            
+            txtSalida.Text = Carrera.MostrarCarrera(carrera);
         }
     }
 }

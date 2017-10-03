@@ -51,7 +51,7 @@ namespace _20161201_RPP
             StringBuilder str = new StringBuilder();
             str.AppendLine("PERRO");
             str.AppendLine(base.MostrarDatos());
-            str.AppendFormat("Raza: {0}\n", this.raza);
+            str.AppendFormat("Raza: {0}\r\n", this.raza);
 
             return str.ToString();
         }

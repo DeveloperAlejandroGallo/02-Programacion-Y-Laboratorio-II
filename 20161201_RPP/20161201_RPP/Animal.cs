@@ -78,9 +78,9 @@ namespace _20161201_RPP
         {
             StringBuilder str = new StringBuilder();
 
-            str.AppendFormat("Cantidad Patas: {0}\n", this.CantidadPatas);
-            str.AppendFormat("Distancia Recorrida: {0}\n", this.DistanciaRecorrida);
-            str.AppendFormat("Velocidad Maxima: {0}\n", this.VelocidadMaxima);
+            str.AppendFormat("Cantidad Patas: {0}\r\n", this.CantidadPatas);
+            str.AppendFormat("Distancia Recorrida: {0}\r\n", this.DistanciaRecorrida);
+            str.AppendFormat("Velocidad Maxima: {0}", this.VelocidadMaxima);
 
             return str.ToString();
         } 

@@ -14,9 +14,11 @@ namespace _20161201_RPP
         [STAThread]
         static void Main()
         {
+            
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new RPP());
+
         }
     }
 }

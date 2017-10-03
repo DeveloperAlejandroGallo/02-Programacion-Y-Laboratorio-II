@@ -58,6 +58,7 @@
             this.txtSalida.Location = new System.Drawing.Point(0, 193);
             this.txtSalida.Multiline = true;
             this.txtSalida.Name = "txtSalida";
+            this.txtSalida.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.txtSalida.Size = new System.Drawing.Size(500, 236);
             this.txtSalida.TabIndex = 2;
             // 

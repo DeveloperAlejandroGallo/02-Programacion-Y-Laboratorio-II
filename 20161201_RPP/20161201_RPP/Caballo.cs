@@ -37,7 +37,7 @@ namespace _20161201_RPP
             StringBuilder str = new StringBuilder();
             str.AppendLine("CABALLO");
             str.AppendLine(base.MostrarDatos());
-            str.AppendFormat("Nombre: {0}\n", this.nombre);
+            str.AppendFormat("Nombre: {0}\r\n", this.nombre);
 
             return str.ToString();
         }

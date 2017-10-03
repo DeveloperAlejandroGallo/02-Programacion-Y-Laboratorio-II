@@ -32,29 +32,19 @@ namespace _20161201_RPP
 
         #region Metodos
 
-        public string MostrarCarrera(Carrera c)
+        public static string MostrarCarrera(Carrera c)
         {
             StringBuilder str = new StringBuilder();
             str.AppendLine("CARRERA");
-            
-            //foreach(Animal a in c.animales)
-            //{
-            //    if (a is Humano)
-            //        ((Humano)a).MostrarHumano();
-            //    if (a is Perro)
-            //        ((Perro)a).MostrarPerro();
-            //    if (a is Caballo)
-            //        ((Caballo)a).MostrarCaballo();
-            //}
 
             for(int i = 0; i < c.animales.Count; i++)
             {
                 if (c.animales[i] is Humano)
-                    ((Humano)c.animales[i]).MostrarHumano();
+                    str.AppendLine(((Humano)c.animales[i]).MostrarHumano());
                 if (c.animales[i] is Perro)
-                    ((Perro)c.animales[i]).MostrarPerro();
+                    str.AppendLine(((Perro)c.animales[i]).MostrarPerro());
                 if (c.animales[i] is Caballo)
-                    ((Caballo)c.animales[i]).MostrarCaballo();
+                    str.AppendLine(((Caballo)c.animales[i]).MostrarCaballo());
             }
 
 
@@ -85,7 +75,7 @@ namespace _20161201_RPP
 
         public static Carrera operator +(Carrera c, Animal a)
         {
-            if(c.animales.Count < c.corredoresMax && c == a)
+            if(c.animales.Count < c.corredoresMax && c != a)
             {
                 c.animales.Add(a);
             }
