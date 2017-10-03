@@ -45,7 +45,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Animal.cs" />
+    <Compile Include="Caballo.cs" />
+    <Compile Include="Carrera.cs" />
     <Compile Include="Humano.cs" />
+    <Compile Include="Perro.cs" />
     <Compile Include="RPP.cs">
       <SubType>Form</SubType>
     </Compile>

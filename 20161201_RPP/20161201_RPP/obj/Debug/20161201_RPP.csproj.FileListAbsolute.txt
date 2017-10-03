@@ -7,3 +7,12 @@ D:\Alejandro Gallo\20161201_RPP\20161201_RPP\obj\Debug\_20161201_RPP.Properties.
 D:\Alejandro Gallo\20161201_RPP\20161201_RPP\obj\Debug\20161201_RPP.csproj.GenerateResource.Cache
 D:\Alejandro Gallo\20161201_RPP\20161201_RPP\obj\Debug\20161201_RPP.exe
 D:\Alejandro Gallo\20161201_RPP\20161201_RPP\obj\Debug\20161201_RPP.pdb
+C:\Ale\FRA\02-ProgYLab\20161201_RPP\20161201_RPP\bin\Debug\20161201_RPP.exe.config
+C:\Ale\FRA\02-ProgYLab\20161201_RPP\20161201_RPP\obj\Debug\20161201_RPP.exe
+C:\Ale\FRA\02-ProgYLab\20161201_RPP\20161201_RPP\obj\Debug\20161201_RPP.pdb
+C:\Ale\FRA\02-ProgYLab\20161201_RPP\20161201_RPP\obj\Debug\20161201_RPP.csprojResolveAssemblyReference.cache
+C:\Ale\FRA\02-ProgYLab\20161201_RPP\20161201_RPP\obj\Debug\_20161201_RPP.RPP.resources
+C:\Ale\FRA\02-ProgYLab\20161201_RPP\20161201_RPP\obj\Debug\_20161201_RPP.Properties.Resources.resources
+C:\Ale\FRA\02-ProgYLab\20161201_RPP\20161201_RPP\obj\Debug\20161201_RPP.csproj.GenerateResource.Cache
+C:\Ale\FRA\02-ProgYLab\20161201_RPP\20161201_RPP\bin\Debug\20161201_RPP.exe
+C:\Ale\FRA\02-ProgYLab\20161201_RPP\20161201_RPP\bin\Debug\20161201_RPP.pdb

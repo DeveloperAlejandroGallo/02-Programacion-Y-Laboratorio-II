@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace _20161201_RPP
 {
-    abstract class Animal
+    public abstract class Animal
     {
         #region Atributos
         protected int cantidadPatas;
@@ -59,6 +59,7 @@ namespace _20161201_RPP
         } 
         #endregion
 
+        #region Constructores
         static Animal()
         {
             distanciaRecorrida = new Random();
@@ -69,8 +70,10 @@ namespace _20161201_RPP
             this.CantidadPatas = cantidadPatas;
             this.VelocidadMaxima = velocidadMax;
         }
+        
+        #endregion
 
-
+        #region Metodos
         public string MostrarDatos()
         {
             StringBuilder str = new StringBuilder();
@@ -80,7 +83,8 @@ namespace _20161201_RPP
             str.AppendFormat("Velocidad Maxima: {0}\n", this.VelocidadMaxima);
 
             return str.ToString();
-        }
+        } 
+        #endregion
 
     }
 }

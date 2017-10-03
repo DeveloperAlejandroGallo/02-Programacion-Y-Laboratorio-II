@@ -41,6 +41,7 @@
             this.btnPruebaClase.TabIndex = 0;
             this.btnPruebaClase.Text = "Prueba Clases";
             this.btnPruebaClase.UseVisualStyleBackColor = true;
+            this.btnPruebaClase.Click += new System.EventHandler(this.btnPruebaClase_Click);
             // 
             // btnMostarSalida
             // 
@@ -50,6 +51,7 @@
             this.btnMostarSalida.TabIndex = 1;
             this.btnMostarSalida.Text = "Mostrar Salida Por Pantalla";
             this.btnMostarSalida.UseVisualStyleBackColor = true;
+            this.btnMostarSalida.Click += new System.EventHandler(this.btnMostarSalida_Click);
             // 
             // txtSalida
             // 

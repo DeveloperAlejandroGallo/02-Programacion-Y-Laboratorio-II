@@ -9,6 +9,7 @@ namespace _20161201_RPP
     public class Humano : Animal
     {
         #region Atributos
+
         string apellido;
         string nombre;
         static int piernas;
@@ -22,7 +23,7 @@ namespace _20161201_RPP
         }
 
         public Humano(int velocidadMax)
-            : base(piernas, velocidadMax)
+            : base(Humano.piernas, velocidadMax)
         { }
 
         public Humano(string nombre, string apellido, int velocidadMax)
@@ -34,17 +35,35 @@ namespace _20161201_RPP
         
         #endregion
 
+        #region Metodos
         public string MostrarHumano()
         {
             StringBuilder str = new StringBuilder();
-
+            str.AppendLine("HUMANO");
+            str.AppendLine(base.MostrarDatos());
             str.AppendFormat("Apellido: {0}\n", this.apellido);
             str.AppendFormat("Nombre: {0}\n", this.nombre);
-            str.AppendFormat("Piernas: {0}\n", Humano.piernas);
+
+
 
             return str.ToString();
+        } 
+        #endregion
+
+
+        #region Sobrecarga Operadores
+
+        public static bool operator ==(Humano unHumano, Humano otroHumano)
+        {
+            return (unHumano.apellido == otroHumano.apellido && unHumano.nombre == otroHumano.nombre);
         }
 
+        public static bool operator !=(Humano unHumano, Humano otroHumano)
+        {
+            return !(unHumano == otroHumano);
+        }
+
+        #endregion
 
     }
 }
