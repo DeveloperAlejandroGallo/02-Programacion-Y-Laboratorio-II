@@ -1,0 +1,13 @@
+Test: 3 tipos
+
+1 - Test Unitarios:
+	Testear cosas atomicas, codigo chico.
+
+2 - Pruebas Integrales:
+	Luego de que funcionan los unitarios.
+
+3 - Pruebas Funcionales
+	Mediante el diseño de modelos de prueba.
+	Se trata de pegarle por todos lados.
+	
+	

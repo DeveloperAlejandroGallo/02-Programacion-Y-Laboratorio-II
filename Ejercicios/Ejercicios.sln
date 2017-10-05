@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
-MinimumVisualStudioVersion = 10.0.40219.1
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej09", "Ej09\Ej09.csproj", "{5AB1E80A-ED85-4E93-B4A3-F98D376957FB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej10", "Ej10\Ej10.csproj", "{78119A67-7137-48AF-86F4-1D392D782903}"
@@ -78,6 +76,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej40_Test", "Ej40_Test\Ej40_Test.csproj", "{E7310E0D-99AB-45BC-A425-393FEA1C0CC0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej39", "Ej39\Ej39.csproj", "{B0871598-AC20-4A02-B283-17A52F8D26C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ej42", "Ej42\Ej42.csproj", "{E16EFB42-0718-42AB-B68D-22D1D9BE84B4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -237,6 +237,10 @@ Global
 		{B0871598-AC20-4A02-B283-17A52F8D26C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0871598-AC20-4A02-B283-17A52F8D26C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0871598-AC20-4A02-B283-17A52F8D26C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E16EFB42-0718-42AB-B68D-22D1D9BE84B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E16EFB42-0718-42AB-B68D-22D1D9BE84B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E16EFB42-0718-42AB-B68D-22D1D9BE84B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E16EFB42-0718-42AB-B68D-22D1D9BE84B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
