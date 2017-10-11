@@ -66,7 +66,7 @@ namespace PrestamosPersonales
             base.Vencimiento = nuevoVencimiento;
 
             for (int i = 0; i < diasExtendidos; i++)
-                base.Monto += 25/10;
+                base.Monto += 2.5f;
         }
 
         public virtual string Mostrar()

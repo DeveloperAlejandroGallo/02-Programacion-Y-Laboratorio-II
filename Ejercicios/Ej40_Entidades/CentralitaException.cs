@@ -32,15 +32,21 @@ namespace Ej40_Entidades
         {
             get 
             {
-                return new Exception();
+                return base.InnerException;
             }
         }
 
         public CentralitaException(string mensaje, string clase, string metodo)
+            :this(mensaje,clase, metodo, null)
         {
             this.nombreMetodo = metodo;
             this.nombreClase = clase;
            
         }
+
+        public CentralitaException(string mensaje, string clase, string metodo, Exception innerException)
+            : base(mensaje, innerException)
+        { }
+
     }
 }
