@@ -13,3 +13,8 @@ C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej14\bin\Debug\Ej14.ex
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej14\bin\Debug\Ej14.pdb
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej14\obj\Debug\Ej14.exe
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej14\obj\Debug\Ej14.pdb
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej14\bin\Debug\Ej14.exe.config
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej14\bin\Debug\Ej14.exe
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej14\bin\Debug\Ej14.pdb
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej14\obj\Debug\Ej14.exe
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej14\obj\Debug\Ej14.pdb

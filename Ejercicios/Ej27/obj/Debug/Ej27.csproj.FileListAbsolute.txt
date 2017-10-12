@@ -6,3 +6,11 @@ C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej27\obj\Debug\Ej27.ex
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej27\obj\Debug\Ej27.pdb
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej27\bin\Debug\Ej21.exe
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej27\bin\Debug\Ej21.pdb
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej27\bin\Debug\Ej27.exe.config
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej27\bin\Debug\Ej27.exe
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej27\bin\Debug\Ej27.pdb
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej27\bin\Debug\Ej21.exe
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej27\bin\Debug\Ej21.pdb
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej27\obj\Debug\Ej27.csprojResolveAssemblyReference.cache
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej27\obj\Debug\Ej27.exe
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej27\obj\Debug\Ej27.pdb

@@ -14,3 +14,11 @@ C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase5\bin\Debug\Clase
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase5\bin\Debug\Ej13.exe
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase5\bin\Debug\Ej13.pdb
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase5\obj\Debug\Clase5.csprojResolveAssemblyReference.cache
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase5\bin\Debug\Clase5.exe.config
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase5\bin\Debug\Clase5.exe
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase5\bin\Debug\Clase5.pdb
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase5\bin\Debug\Ej13.exe
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase5\bin\Debug\Ej13.pdb
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase5\obj\Debug\Clase5.csprojResolveAssemblyReference.cache
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase5\obj\Debug\Clase5.exe
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Clase5\obj\Debug\Clase5.pdb

@@ -42,6 +42,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Centralita.cs" />
+    <Compile Include="CentralitaException.cs" />
     <Compile Include="Ejercicio40.cs" />
     <Compile Include="Llamada.cs" />
     <Compile Include="Local.cs" />

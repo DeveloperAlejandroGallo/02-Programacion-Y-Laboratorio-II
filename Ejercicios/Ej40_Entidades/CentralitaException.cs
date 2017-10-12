@@ -48,5 +48,7 @@ namespace Ej40_Entidades
             : base(mensaje, innerException)
         { }
 
+
+
     }
 }

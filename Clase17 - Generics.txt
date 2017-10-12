@@ -1,0 +1,44 @@
+Clases Genericas
+
+List<Tipo De Dato>
+Dictionary<int, string>
+
+
+Como generar una clase generica 
+
+public class Mensaje<T>
+{
+	private T miAtributo;
+}
+
+Mensaje<string> tipoTexto = new Mensaje<string>();
+Mensaje<MiClase> tipoMio = new Mensaje<MiClase>();
+
+
+RESTRICCIONES:
+Tratar de no dejar que entre cualquier cosa al metodo.
+
+public class Mensajero<T> where T : Mensaje
+{ }
+
+class EjemploComplejo<K, V, U>
+    where U : System.IComparable<U>, // Implemente interfaz
+    where V : new() // V tenga constructor por defecto
+{ }
+
+
+Para que un metodo sea generico no hace falta que la clase sea generica
+
+class Prueba
+{
+        public static void OpTest<T>(T s, T t) where T : class
+        {
+            System.Console.WriteLine(s == t);
+        }
+
+        public void OpTest2<T>(T s, T t) where T : class
+        {
+            System.Console.WriteLine(s == t);
+        }
+}
+

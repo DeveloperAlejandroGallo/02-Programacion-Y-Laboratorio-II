@@ -22,3 +22,9 @@ C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej01\bin\Debug\Ej01.pd
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej01\obj\Debug\Ej01.csprojResolveAssemblyReference.cache
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej01\obj\Debug\Ej01.exe
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej01\obj\Debug\Ej01.pdb
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej01\bin\Debug\Ej01.exe.config
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej01\bin\Debug\Ej01.exe
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej01\bin\Debug\Ej01.pdb
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej01\obj\Debug\Ej01.csprojResolveAssemblyReference.cache
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej01\obj\Debug\Ej01.exe
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej01\obj\Debug\Ej01.pdb

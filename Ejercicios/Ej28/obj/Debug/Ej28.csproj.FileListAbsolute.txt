@@ -7,3 +7,12 @@ C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\obj\Debug\Ej28.Pr
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\obj\Debug\Ej28.csproj.GenerateResource.Cache
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\obj\Debug\Ej28.exe
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\obj\Debug\Ej28.pdb
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\bin\Debug\Ej28.exe.config
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\bin\Debug\Ej28.exe
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\bin\Debug\Ej28.pdb
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\obj\Debug\Ej28.csprojResolveAssemblyReference.cache
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\obj\Debug\Ej28.frmContadorPalabras.resources
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\obj\Debug\Ej28.Properties.Resources.resources
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\obj\Debug\Ej28.csproj.GenerateResource.Cache
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\obj\Debug\Ej28.exe
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej28\obj\Debug\Ej28.pdb

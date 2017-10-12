@@ -161,6 +161,10 @@ namespace Ej40_Entidades
             {
                 centralita.AgregarLlamada(llamadaNva);
             }
+            else
+            {
+                throw new CentralitaException("La llamada ya se encuentra en el sistema", typeof(Centralita).Name, "operator +");
+            }
 
             return centralita;
         }

@@ -6,3 +6,11 @@ C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej37_Test\bin\Debug\Ej
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej37_Test\obj\Debug\Ej37_Test.csprojResolveAssemblyReference.cache
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej37_Test\obj\Debug\Ej37_Test.exe
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej37_Test\obj\Debug\Ej37_Test.pdb
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej37_Test\bin\Debug\Ej37_Test.exe.config
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej37_Test\bin\Debug\Ej37_Test.exe
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej37_Test\bin\Debug\Ej37_Test.pdb
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej37_Test\bin\Debug\Ej37_Entidades.exe
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej37_Test\bin\Debug\Ej37_Entidades.pdb
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej37_Test\obj\Debug\Ej37_Test.csprojResolveAssemblyReference.cache
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej37_Test\obj\Debug\Ej37_Test.exe
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej37_Test\obj\Debug\Ej37_Test.pdb

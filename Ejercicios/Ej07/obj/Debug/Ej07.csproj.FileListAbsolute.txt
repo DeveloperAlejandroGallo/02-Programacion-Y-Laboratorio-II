@@ -19,3 +19,8 @@ C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej07\bin\Debug\Ej07.ex
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej07\bin\Debug\Ej07.pdb
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej07\obj\Debug\Ej07.exe
 C:\Ale\GitHub\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej07\obj\Debug\Ej07.pdb
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej07\bin\Debug\Ej07.exe.config
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej07\bin\Debug\Ej07.exe
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej07\bin\Debug\Ej07.pdb
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej07\obj\Debug\Ej07.exe
+D:\Alejandro Gallo\Git\02-Programacion-Y-Laboratorio-II\Ejercicios\Ej07\obj\Debug\Ej07.pdb
