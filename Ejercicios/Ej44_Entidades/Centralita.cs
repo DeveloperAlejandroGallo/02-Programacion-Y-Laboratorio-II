@@ -6,13 +6,26 @@ using System.Threading.Tasks;
 
 namespace Ej44_Entidades
 {
-    public class Centralita
+    public class Centralita : IGuardar<string> 
     {
         List<Llamada> listaDeLlamadas;
 
         protected string razonSocial;
+        string rutaDeArchivo;
 
         #region Propiedades
+
+        public string RutaDeArchivo
+        {
+            get
+            {
+                return rutaDeArchivo;
+            }
+            set
+            {
+                this.rutaDeArchivo = value;
+            }
+        }
 
         public float GananciasPorLocal
         {
@@ -169,6 +182,20 @@ namespace Ej44_Entidades
             return centralita;
         }
 
-        #endregion 
+        //Metodos de la interfaz
+        public bool Guardar()
+        {
+            this.ToString();
+            return true;
+
+        }
+
+        public string Leer()
+        {
+            throw new NotImplementedException();
+        }
+
+
+        #endregion
     }
 }

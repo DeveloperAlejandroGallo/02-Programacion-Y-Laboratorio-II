@@ -44,6 +44,7 @@
     <Compile Include="Centralita.cs" />
     <Compile Include="CentralitaException.cs" />
     <Compile Include="Ejercicio44.cs" />
+    <Compile Include="IGuardar.cs" />
     <Compile Include="Llamada.cs" />
     <Compile Include="Local.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

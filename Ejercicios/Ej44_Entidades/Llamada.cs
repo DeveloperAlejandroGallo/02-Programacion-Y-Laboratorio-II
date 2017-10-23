@@ -20,7 +20,9 @@ namespace Ej44_Entidades
         #region Atributos
         protected float duracion;
         protected string nroDestino;
-        protected string nroOrigen; 
+        protected string nroOrigen;
+        protected string rutaDeArchivo;
+
         #endregion
 
         #region Propiedades
@@ -42,6 +44,18 @@ namespace Ej44_Entidades
         public abstract float CostoLlamada
         { 
             get;
+        }
+
+        public string RutaDeArchivo
+        {
+            get
+            {
+                return this.rutaDeArchivo;
+            }
+            set
+            {
+                this.rutaDeArchivo = value;
+            }
         }
 
         #endregion Propiedades

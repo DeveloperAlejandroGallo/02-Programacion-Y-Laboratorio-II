@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ej44_Entidades
 {
-    public class Local : Llamada
+    public class Local : Llamada , IGuardar<Local>
     {
         protected float costo;
 
@@ -54,6 +54,18 @@ namespace Ej44_Entidades
         public override string ToString()
         {
             return this.Mostrar();
+        }
+
+        //sobreescritura de metodos de interface
+
+        public bool Guardar()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Local Leer()
+        {
+            throw new NotImplementedException();
         }
 
         #endregion

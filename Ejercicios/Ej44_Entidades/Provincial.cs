@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Ej44_Entidades
 {
-    public class Provincial : Llamada
+    public class Provincial : Llamada , IGuardar<Provincial>
     {
         public enum Franja
         {
@@ -69,6 +69,21 @@ namespace Ej44_Entidades
         {
             return this.Mostrar();
         }
+
+        //sobreescritura de metodos de interface
+
+        public bool Guardar()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Provincial Leer()
+        {
+            throw new NotImplementedException();
+        }
+
+
+
         #endregion
     }
 }
