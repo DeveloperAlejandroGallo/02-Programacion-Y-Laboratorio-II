@@ -6,7 +6,20 @@ using System.Threading.Tasks;
 
 namespace Ej36
 {
-    class AutoF1
+    public class AutoF1 : VehiculoDeCarrera
     {
+        short caballosDeFuerza;
+
+        public short CaballosDeFuerza
+        {
+            get
+            {
+                return this.caballosDeFuerza;
+            }
+            set
+            {
+                this.caballosDeFuerza = value;
+            }
+        }
     }
 }

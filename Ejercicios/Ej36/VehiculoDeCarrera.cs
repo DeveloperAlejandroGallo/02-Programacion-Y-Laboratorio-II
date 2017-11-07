@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ej30
+namespace Ej36
 {
-    public class AutoF1
+    public class VehiculoDeCarrera
     {
         #region Atributos
         short cantidadCombustible;
@@ -17,7 +17,7 @@ namespace Ej30
         #endregion
 
         #region Constructor
-        public AutoF1(short numero, string escuderia)
+        public VehiculoDeCarrera(short numero, string escuderia)
         {
             this.cantidadCombustible = 0;
             this.enCompetencia = false;
@@ -67,6 +67,18 @@ namespace Ej30
 
         }
 
+        public string Escuderia
+        {
+            get
+            {
+                return this.escuderia;
+            }
+            set
+            {
+                this.escuderia = value;
+            }
+        }
+
         #endregion
 
         public string MostrarDato()
@@ -85,12 +97,12 @@ namespace Ej30
 
         }
 
-        public static bool operator ==(AutoF1 a1, AutoF1 a2)
+        public static bool operator ==(VehiculoDeCarrera a1, VehiculoDeCarrera a2)
         {
             return a1.numero == a2.numero && a1.escuderia == a2.escuderia;
         }
 
-        public static bool operator !=(AutoF1 a1, AutoF1 a2)
+        public static bool operator !=(VehiculoDeCarrera a1, VehiculoDeCarrera a2)
         {
             return !(a1 == a2);
         }

@@ -4,17 +4,17 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ej30
+namespace Ej36
 {
     public class Competencia
     {
         int cantidadDeCompetidores;
         short cantidadDeVueltas;
-        List<AutoF1> competidores;
+        List<VehiculoDeCarrera> competidores;
 
         private Competencia()
         {
-            competidores = new List<AutoF1>();
+            competidores = new List<VehiculoDeCarrera>();
         }
 
         public Competencia(short cantidadDeVueltas, short cantidadDeCompetidores)
@@ -24,7 +24,7 @@ namespace Ej30
             this.cantidadDeVueltas = cantidadDeVueltas;
         }
 
-        public static bool operator +(Competencia c, AutoF1 a)
+        public static bool operator +(Competencia c, VehiculoDeCarrera a)
         {
             if(c.competidores.Count() < c.cantidadDeCompetidores)
             {
@@ -40,9 +40,9 @@ namespace Ej30
             return false;
         }
 
-        static bool estaCompetidor(Competencia c, AutoF1 a)
+        static bool estaCompetidor(Competencia c, VehiculoDeCarrera a)
         {
-            foreach(AutoF1 auto in c.competidores)
+            foreach(VehiculoDeCarrera auto in c.competidores)
             {
                 if (auto == a)
                     return true;
