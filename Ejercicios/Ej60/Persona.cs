@@ -4,18 +4,31 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ej60
+namespace Ej66
 {
     public class Persona
     {
-        int ID;
+        int id;
         string nombre;
         string apellido;
 
-        public Persona(string nombre, string apellido)
+        public Persona(int id, string nombre, string apellido)
         {
+            this.id = id;
             this.nombre = nombre;
             this.apellido = apellido;
+        }
+
+        public int ID
+        {
+            get
+            {
+                return this.id;
+            }
+            set
+            {
+                this.id = value;
+            }
         }
 
         public string Nombre

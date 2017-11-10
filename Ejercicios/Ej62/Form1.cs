@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Threading;
 
-namespace Ej62
+namespace Ej66
 {
     public partial class frmEj62 : Form
     {

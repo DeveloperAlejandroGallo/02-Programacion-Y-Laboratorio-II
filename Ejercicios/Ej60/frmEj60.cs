@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Ej60
+namespace Ej66
 {
     public partial class frmEj60 : Form
     {
@@ -35,30 +35,50 @@ namespace Ej60
 
         private void lstPersonas_DoubleClick(object sender, EventArgs e)
         {
-            Persona p;
-            PersonaDAO consulta = new PersonaDAO();
-            p = consulta.LeerPorID(((Persona)lstPersonas.Items[lstPersonas.SelectedIndex]).ID);
-            txtApellido.Text = p.Apellido;
-            txtNombre.Text = p.Nombre;
-        }
+            if (lstPersonas.SelectedIndex != -1)
+            {
 
-        private void btnModificar_Click(object sender, EventArgs e)
-        {
-            PersonaDAO consulta = new PersonaDAO();
-            Persona persona = new Persona(txtNombre.Text, txtApellido.Text);
-            consulta.Modificar(lstPersonas.SelectedIndex + 1, persona);
-            btnLeer_Click(sender, e);
-
+                Persona p;
+                PersonaDAO consulta = new PersonaDAO();
+                p = consulta.LeerPorID(((Persona)lstPersonas.Items[lstPersonas.SelectedIndex]).ID);
+                txtApellido.Text = p.Apellido;
+                txtNombre.Text = p.Nombre;
+            }
+            else
+                MessageBox.Show("Debe seleccionar una Persona.", "Alerta", MessageBoxButtons.OK);
         }
 
         private void lstPersonas_Click(object sender, EventArgs e)
         {
-            Persona p;
-            PersonaDAO consulta = new PersonaDAO();
-            p = consulta.LeerPorID(lstPersonas.SelectedIndex + 1);
-            txtApellido.Text = p.Apellido;
-            txtNombre.Text = p.Nombre;
+            if(lstPersonas.SelectedIndex != -1)
+            { 
+                Persona p;
+                PersonaDAO consulta = new PersonaDAO();
+                p = consulta.LeerPorID(((Persona)lstPersonas.Items[lstPersonas.SelectedIndex]).ID);
+                txtApellido.Text = p.Apellido;
+                txtNombre.Text = p.Nombre;
+            }
+                else
+                    MessageBox.Show("Debe seleccionar una Persona.", "Alerta", MessageBoxButtons.OK);
         }
+
+
+        private void btnModificar_Click(object sender, EventArgs e)
+        {
+            if (lstPersonas.SelectedIndex != -1)
+            {
+                PersonaDAO consulta = new PersonaDAO();
+                Persona persona = consulta.LeerPorID(((Persona)lstPersonas.Items[lstPersonas.SelectedIndex]).ID);
+                persona.Apellido = txtApellido.Text;
+                persona.Nombre = txtNombre.Text;
+                consulta.Modificar(persona);
+                btnLeer_Click(sender, e);
+            }
+            else
+                MessageBox.Show("Debe seleccionar una Persona.", "Alerta", MessageBoxButtons.OK);
+
+        }
+
 
         private void frmEj60_Load(object sender, EventArgs e)
         {
@@ -69,15 +89,20 @@ namespace Ej60
 
         private void btnEliminar_Click(object sender, EventArgs e)
         {
-            PersonaDAO consulta = new PersonaDAO();
-            consulta.Borrar(lstPersonas.SelectedIndex + 1);
-            btnLeer_Click(sender, e);
+            if (lstPersonas.SelectedIndex != -1)
+            {
+                PersonaDAO consulta = new PersonaDAO();
+                consulta.Borrar(((Persona)lstPersonas.Items[lstPersonas.SelectedIndex]).ID);
+                btnLeer_Click(sender, e);
+            }
+            else
+                MessageBox.Show("Debe seleccionar una Persona.", "Alerta", MessageBoxButtons.OK);
         }
 
         private void btnGuardar_Click(object sender, EventArgs e)
         {
             PersonaDAO consulta = new PersonaDAO();
-            Persona persona = new Persona(txtNombre.Text, txtApellido.Text);
+            Persona persona = new Persona(0,txtNombre.Text, txtApellido.Text);
             consulta.Guardar(persona);
             btnLeer_Click(sender, e);
         }

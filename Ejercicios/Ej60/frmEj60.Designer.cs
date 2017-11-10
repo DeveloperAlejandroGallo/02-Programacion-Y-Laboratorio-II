@@ -1,4 +1,4 @@
-﻿namespace Ej60
+﻿namespace Ej66
 {
     partial class frmEj60
     {

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using System.Data.SqlClient;
 using System.Data;
 
-namespace Ej60
+namespace Ej66
 {
     public class PersonaDAO
     {
@@ -29,11 +29,11 @@ namespace Ej60
                     + p.Nombre + "','" + p.Apellido + "')");
         }
 
-        public bool Modificar(int id, Persona p)
+        public bool Modificar(Persona p)
         {
             StringBuilder str = new StringBuilder();
             str.AppendFormat("Update Persona set nombre = '{0}', apellido = '{1}' ",p.Nombre, p.Apellido);
-            str.AppendFormat("Where id = {0}", id);
+            str.AppendFormat("Where id = {0}", p.ID);
             return EjecutoNonQuery(str.ToString());
         }
 
@@ -59,9 +59,9 @@ namespace Ej60
             while (oDr.Read())
             {
                 // ACCEDO POR NOMBRE O POR INDICE
-                personas.Add(new Persona( oDr["Nombre"].ToString(), oDr["Apellido"].ToString() ));
+                personas.Add(new Persona( (int)oDr["ID"], oDr["Nombre"].ToString(), oDr["Apellido"].ToString() ));
             }
-            
+            conexion.Close();
             return personas;
                  
         }
@@ -83,13 +83,13 @@ namespace Ej60
             if (oDr.Read())
             {
                 // ACCEDO POR NOMBRE O POR INDICE
-                personaBuscada = new Persona(oDr["Nombre"].ToString(), oDr["Apellido"].ToString());
+                personaBuscada = new Persona((int)oDr["ID"], oDr["Nombre"].ToString(), oDr["Apellido"].ToString());
             }
             else
             {
                 throw new Exception("Persona con id " + id + ", no encontrada.");
             }
-
+            conexion.Close();
             return personaBuscada;
             
         }

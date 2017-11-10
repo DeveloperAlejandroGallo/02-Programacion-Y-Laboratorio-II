@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Ej60
+namespace Ej66
 {
     static class Ej60
     {

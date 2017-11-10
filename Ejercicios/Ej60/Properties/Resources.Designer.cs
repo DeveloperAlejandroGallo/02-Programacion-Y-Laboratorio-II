@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Ej60.Properties
+namespace Ej66.Properties
 {
 
 
