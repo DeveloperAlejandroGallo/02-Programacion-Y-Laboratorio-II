@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gallo.Alejandro.2C", "20170
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "ClassLibrary1\Entidades.csproj", "{AE9B6E9B-87C6-4002-89EC-17FEA61C668B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Alejandro.Gallo.2C", "Test.Alejandro.Gallo.2C\Test.Alejandro.Gallo.2C.csproj", "{82DD8F65-5D8D-4F52-9EE7-62710337DC6D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{AE9B6E9B-87C6-4002-89EC-17FEA61C668B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE9B6E9B-87C6-4002-89EC-17FEA61C668B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE9B6E9B-87C6-4002-89EC-17FEA61C668B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82DD8F65-5D8D-4F52-9EE7-62710337DC6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82DD8F65-5D8D-4F52-9EE7-62710337DC6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82DD8F65-5D8D-4F52-9EE7-62710337DC6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82DD8F65-5D8D-4F52-9EE7-62710337DC6D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

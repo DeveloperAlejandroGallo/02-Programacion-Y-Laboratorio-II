@@ -19,18 +19,28 @@ namespace Entidades
         public Paciente(string nombre, string apellido)
             :base(nombre,apellido)
         {
-            this.turno = ultimoTurnoDado + 1;
+            this.turno = ++ultimoTurnoDado ;
         }
 
         public Paciente(string nombre, string apellido, int turno)
-            :this(nombre, apellido)
+            :base(nombre, apellido)
         {
             this.turno = turno;
+            Paciente.ultimoTurnoDado = turno;
         }
+
+        public int Turno
+        {
+            get
+            {
+                return this.turno;
+            }
+        }
+
 
         public override string ToString()
         {
-            return string.Format("Turno Nº{0}: {2}, {1}", this.turno, base.apellido, base.nombre); 
+            return string.Format("Turno Nº{0}: {1}", this.turno, base.ToString()); 
         }
 
     }
