@@ -63,6 +63,7 @@ namespace Ej66
         {
             temporizador = new Temporizador();
             temporizador.EventoTiempo += Temporizador_EventoTiempo;
+            temporizador.EventoNvo += Temporizador_EventoCoco;
             //temporizador.Activo = true;
         }
         /// <summary>
@@ -73,6 +74,12 @@ namespace Ej66
         private void Temporizador_EventoTiempo(object obj, EventArgs e)
         {
             MostrarHora2();
+        }
+
+        private int Temporizador_EventoCoco(string str)
+        {
+            MessageBox.Show(str);
+            return 1;
         }
 
         private void MostrarHora()

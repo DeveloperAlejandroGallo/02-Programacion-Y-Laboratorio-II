@@ -30,6 +30,7 @@ namespace Ej44_TestCentralita
             catch (CentralitaException ex)
             {
                 Assert.IsInstanceOfType(ex, typeof(CentralitaException));
+                
             }
 
         }

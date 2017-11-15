@@ -80,7 +80,7 @@ namespace Ej58_Entidades
         {
             try
             {
-                XmlSerializer serializer = new XmlSerializer(typeof(Local));
+                XmlSerializer serializer = new XmlSerializer(typeof(Provincial));
                 XmlTextWriter writer = new XmlTextWriter(archivoXML, Encoding.UTF8);
                 serializer.Serialize(writer, this);
                 writer.Close();
@@ -88,7 +88,7 @@ namespace Ej58_Entidades
             }
             catch (Exception )
             {
-                throw new XMLException("Error al serializarXML", typeof(Local).Name, "Guardar");
+                throw new XMLException("Error al serializarXML", typeof(Provincial).Name, "Guardar");
             }
             return true;
         }
@@ -98,7 +98,7 @@ namespace Ej58_Entidades
             Provincial datos;
             try
             {
-                XmlSerializer serializer = new XmlSerializer(typeof(Local));
+                XmlSerializer serializer = new XmlSerializer(typeof(Provincial));
                 XmlTextReader reader = new XmlTextReader(archivoXML);
                 datos = (Provincial)serializer.Deserialize(reader);
                 reader.Close();

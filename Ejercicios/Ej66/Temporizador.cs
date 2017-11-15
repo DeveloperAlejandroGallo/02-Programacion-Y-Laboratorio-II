@@ -10,8 +10,10 @@ namespace Ej66
     public class Temporizador
     {
         public delegate void encargadoTiempo(object obj, EventArgs e);
+        public delegate int otroDelegado(string str);
 
         public event encargadoTiempo EventoTiempo;
+        public event otroDelegado EventoNvo;
 
         Thread hilo;
         int intervalo;
@@ -64,7 +66,8 @@ namespace Ej66
             while (true)
             {
                 Thread.Sleep(Intervalo);
-                this.EventoTiempo(this, new EventArgs());
+                this.EventoTiempo(this, new EventArgs()); //Lanzo el evento.
+                this.EventoNvo("Te mando este texto eventito");
             }
 
         }
