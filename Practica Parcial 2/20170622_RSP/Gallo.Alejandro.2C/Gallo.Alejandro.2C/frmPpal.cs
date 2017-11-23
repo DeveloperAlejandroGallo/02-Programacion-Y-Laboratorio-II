@@ -27,7 +27,7 @@ namespace Gallo.Alejandro._2C
         {
             try
             {
-                hilos = hilos + cantAleatoria.Next(-10, 10);
+                hilos = hilos + cantAleatoria.Next(-1, 10);
             }
             catch (CantidadInvalidaException ex)
             {

@@ -11,7 +11,7 @@ namespace Entidades
 {
     public class LosHilos : IRespuesta<int>
     {
-        static string archivo = Environment.GetFolderPath(Environment.SpecialFolder.Desktop)+"bitacora.txt";
+        static string archivo = Environment.GetFolderPath(Environment.SpecialFolder.Desktop)+"\\bitacora.txt";
 
         public delegate void delegaHilos(string mensaje);
         public event delegaHilos AvisoFin;
@@ -41,23 +41,22 @@ namespace Entidades
         }
         #endregion
         
-        static LosHilos AgregarHilo(LosHilos hilos)
-        {
-            ++LosHilos.id;
-            IRespuesta<int> callback = null;
-            //como le mando el callback?
-            InfoHilo nuevoHilo = new InfoHilo(LosHilos.id, null);
-            hilos.misHilos.Add(nuevoHilo);
-
-            return hilos;
-        }
-
         public void RespuestaHilo(int id)
         {
-            Thread.CurrentThread.Abort();
+            //Thread.CurrentThread.Abort();
             string msg = string.Format("Terminó el hilo {0}.", id);
             this.Bitacora = msg;//Guardo en el archivo
             this.AvisoFin(msg);//Lanzo el evento
+        }
+
+        static LosHilos AgregarHilo(LosHilos hilos)
+        {
+            LosHilos.id++;
+            //como le mando el callback?
+            InfoHilo nuevoHilo = new InfoHilo(LosHilos.id, hilos);
+            hilos.misHilos.Add(nuevoHilo);
+
+            return hilos;
         }
 
 
@@ -111,7 +110,10 @@ namespace Entidades
             try
             {
                 if (File.Exists(archivo))
+                {
+                    file = new StreamReader(archivo);
                     data = file.ReadToEnd();
+                }
             }
             catch (Exception ex)
             {
