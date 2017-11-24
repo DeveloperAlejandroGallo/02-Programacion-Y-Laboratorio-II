@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "EntidadesHechas\Entidades.csproj", "{E04F4D81-9FA5-4BAD-A965-D390F397B66E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "20171123-SP-Cartas\Test.csproj", "{6A73424C-4EC7-4E31-922F-3B3C820D15C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Testing", "Testing\Testing.csproj", "{84B6003C-AF83-43F3-BDB7-9486F2A58CC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E04F4D81-9FA5-4BAD-A965-D390F397B66E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E04F4D81-9FA5-4BAD-A965-D390F397B66E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E04F4D81-9FA5-4BAD-A965-D390F397B66E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E04F4D81-9FA5-4BAD-A965-D390F397B66E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A73424C-4EC7-4E31-922F-3B3C820D15C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A73424C-4EC7-4E31-922F-3B3C820D15C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A73424C-4EC7-4E31-922F-3B3C820D15C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A73424C-4EC7-4E31-922F-3B3C820D15C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B6003C-AF83-43F3-BDB7-9486F2A58CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B6003C-AF83-43F3-BDB7-9486F2A58CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B6003C-AF83-43F3-BDB7-9486F2A58CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B6003C-AF83-43F3-BDB7-9486F2A58CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
